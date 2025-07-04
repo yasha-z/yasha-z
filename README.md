@@ -1,4 +1,4 @@
-# Hey there, I'm Yasha! 👋
+# Hey there, I'm Yasha!
 
 I'm a third-year Computer Science student who’s super curious when it comes to machine learning, web development, computer vision, and augmented reality.
 
@@ -12,11 +12,11 @@ Right now, I’m working on some exciting stuff:
   - 😴 **Fatigue detection using computer vision** to alert users when they seem tired or distracted
   - Smart break suggestions
   - Motivational quotes based on task types
-- 🧠 A **customer churn prediction model** that helps businesses figure out when and why users might leave.
+- A **customer churn prediction model** that helps businesses figure out when and why users might leave.
 
 ---
 
-## What I’ve Worked With 🛠️
+## What I’ve Worked With
 
 I love working with:
 - **Python**, **Flask**, **OpenCV**, **TensorFlow**, and **Streamlit** for backend + AI/ML/CV.
@@ -32,7 +32,7 @@ What excites me the most is creating things that are actually useful to me and o
 
 ---
 
-## Let’s Connect 🤝
+## Let’s Connect
 
 📫 yasha.ali14@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/yasha-ali-6295a7255/)  
