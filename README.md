@@ -21,8 +21,7 @@ Right now, I’m working on some exciting stuff:
 I love working with:
 - **Python**, **Flask**, **OpenCV**, **TensorFlow**, and **Streamlit** for backend + AI/ML/CV.
 - **React**, **Bootstrap**, **Javascript** and **HTML/CSS** for front-end development.
-- **Unity**, **Vuforia**, **ARCore** and **WebXR** for fun and functional AR projects like Virtual home decoration, Virtual business cards, Virtual Billboards.
-
+- **Unity**, **Vuforia**, **ARCore** for fun and functional AR project.
 ---
 
 ## A Bit More About Me ✨
